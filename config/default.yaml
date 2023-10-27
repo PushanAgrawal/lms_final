@@ -1,0 +1,12 @@
+---
+selector:
+  site:
+    pageTitle: ".headermenu"
+    userStatus: ".logininfo"
+    loggedOut: 'You are not logged in.'
+    loggedIn: 'You are logged in as '
+
+url:
+  root: 'https://lms.iiitb.ac.in/moodle'
+  login: "/login/index.php"
+  home: "/my"
